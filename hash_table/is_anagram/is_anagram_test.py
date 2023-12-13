@@ -15,8 +15,3 @@ class TestIsAnagram(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-
-    
-    SELECT patient_id 
-FROM home_patientvisit
-GROUP BY patient_id;
